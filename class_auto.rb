@@ -1,0 +1,3 @@
+class auto
+
+end
